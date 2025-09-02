@@ -16,7 +16,12 @@ DOMAIN-SUFFIX,duoduocdn.com
 DOMAIN-SUFFIX,meituan.net
 
 # 银行
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,icbc.com
 
 # 航空
 DOMAIN-SUFFIX,csair.com
 DOMAIN-SUFFIX,hnair.com
+DOMAIN-SUFFIX,umetrip.com
