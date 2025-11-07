@@ -1,2 +1,10 @@
 #自定义走代理
 
+#apple intelligence
+
+DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
+DOMAIN-SUFFIX,*.smoot.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,PROXY
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,PROXY
+DOMAIN-SUFFIX,cp4.cloudflare.com,PROXY
+DOMAIN-SUFFIX,apple-relay.apple.com,PROXY
