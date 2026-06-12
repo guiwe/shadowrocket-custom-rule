@@ -1,6 +1,6 @@
 #自定义走代理
 
-#apple intelligence
+#for apple intelligence
 
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,*.smoot.apple.com
@@ -13,3 +13,21 @@ DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,apps.mzstatic.com
 #DOMAIN-SUFFIX,gateway.icloud.com
+
+# Apple Podcasts 核心域名
+DOMAIN-SUFFIX,podcasts.apple.com,PROXY
+DOMAIN-SUFFIX,podcast-api.apple.com,PROXY
+DOMAIN-SUFFIX,podcast-analytics.apple.com,PROXY
+
+# Apple 媒体服务 待定
+# DOMAIN-SUFFIX,itunes.apple.com,PROXY
+# DOMAIN-SUFFIX,apps.apple.com,PROXY
+# DOMAIN-SUFFIX,mzstatic.com,PROXY
+
+# 播客音频 CDN
+DOMAIN-SUFFIX,cdn.simplecast.com,PROXY
+DOMAIN-SUFFIX,traffic.megaphone.fm,PROXY
+DOMAIN-SUFFIX,dts.podtrac.com,PROXY
+DOMAIN-SUFFIX,anchor.fm,PROXY
+DOMAIN-SUFFIX,spotifycdn.com,PROXY
+
