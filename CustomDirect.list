@@ -65,5 +65,3 @@ DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,wxpay.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
