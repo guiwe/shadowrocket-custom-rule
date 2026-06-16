@@ -1,8 +1,3 @@
-PROCESS-NAME,com.android.vending
-PROCESS-NAME,com.google.android.gms
-PROCESS-NAME,com.google.android.gsf
-PROCESS-NAME,com.google.android.play.games
-PROCESS-NAME,GoogleDriveFS.exe
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,ampproject.com
 DOMAIN-SUFFIX,ampproject.net
@@ -246,8 +241,6 @@ DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
-PROCESS-NAME,com.google.android.apps.youtube.music
-PROCESS-NAME,com.google.android.youtube
 DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
