@@ -1,0 +1,6 @@
+# Claude
+# Generated from Clash rule-set
+# Shadowrocket compatible format
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai

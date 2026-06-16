@@ -1,0 +1,6 @@
+# OP
+# Generated from Clash rule-set
+# Shadowrocket compatible format
+
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,opgg-static.akamaized.net
