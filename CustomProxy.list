@@ -15,19 +15,19 @@ DOMAIN-SUFFIX,apps.mzstatic.com
 #DOMAIN-SUFFIX,gateway.icloud.com
 
 # Apple Podcasts 核心域名
-DOMAIN-SUFFIX,podcasts.apple.com,PROXY
-DOMAIN-SUFFIX,podcast-api.apple.com,PROXY
-DOMAIN-SUFFIX,podcast-analytics.apple.com,PROXY
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,podcast-api.apple.com
+DOMAIN-SUFFIX,podcast-analytics.apple.com
 
 # Apple 媒体服务 待定
-# DOMAIN-SUFFIX,itunes.apple.com,PROXY
-# DOMAIN-SUFFIX,apps.apple.com,PROXY
-# DOMAIN-SUFFIX,mzstatic.com,PROXY
+# DOMAIN-SUFFIX,itunes.apple.com
+# DOMAIN-SUFFIX,apps.apple.com
+# DOMAIN-SUFFIX,mzstatic.com
 
 # 播客音频 CDN
-DOMAIN-SUFFIX,cdn.simplecast.com,PROXY
-DOMAIN-SUFFIX,traffic.megaphone.fm,PROXY
-DOMAIN-SUFFIX,dts.podtrac.com,PROXY
-DOMAIN-SUFFIX,anchor.fm,PROXY
-DOMAIN-SUFFIX,spotifycdn.com,PROXY
+DOMAIN-SUFFIX,cdn.simplecast.com
+DOMAIN-SUFFIX,traffic.megaphone.fm
+DOMAIN-SUFFIX,dts.podtrac.com
+DOMAIN-SUFFIX,anchor.fm
+DOMAIN-SUFFIX,spotifycdn.com
 
