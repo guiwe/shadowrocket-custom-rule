@@ -43,3 +43,7 @@ DOMAIN-SUFFIX,spotifycdn.com
 # > 插件中心转换（Plugin2Rocket 模块用）
 DOMAIN-SUFFIX,kelee.one
 DOMAIN-SUFFIX,script.hub
+
+# JD比价模块
+DOMAIN-SUFFIX,in.m.jd.com
+DOMAIN-SUFFIX,manmanbuy.com
