@@ -3,3 +3,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
+
+#配合插件
+DOMAIN-SUFFIX,spclient.wg.spotify.com
+DOMAIN-SUFFIX,spclient.spotify.com
