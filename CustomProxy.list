@@ -33,12 +33,12 @@ DOMAIN-SUFFIX,spotifycdn.com
 
 # 模块
 # 菜鸟去广告 使用模块
-# DOMAIN-SUFFIX,cainiao.com
-# DOMAIN-SUFFIX,nbcps-mtop.cainiao.com
-# DOMAIN-SUFFIX,netflow-mtop.cainiao.com
-# DOMAIN-SUFFIX,cn-acs.m.cainiao.com
-# DOMAIN-SUFFIX,e2e-mtop.cainiao.com
-# DOMAIN-SUFFIX,longquan-mtop.cainiao.com
+DOMAIN-SUFFIX,cainiao.com
+DOMAIN-SUFFIX,nbcps-mtop.cainiao.com
+DOMAIN-SUFFIX,netflow-mtop.cainiao.com
+DOMAIN-SUFFIX,cn-acs.m.cainiao.com
+DOMAIN-SUFFIX,e2e-mtop.cainiao.com
+DOMAIN-SUFFIX,longquan-mtop.cainiao.com
 
 # > 插件中心转换（Plugin2Rocket 模块用）
 DOMAIN-SUFFIX,kelee.one
